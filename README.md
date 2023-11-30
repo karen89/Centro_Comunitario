@@ -2,6 +2,9 @@
 Proyecto de Página Web Estática 
 para un Centro comunitario atención especializada para mujeres
 
+### IMPORTANTE
+El proyecto se continuó en el repositorio [MaravillaTeam](https://github.com/MaravillaTeam/centro-comunitario).
+
 ## Proyecto del Bootcamp
 Full Stack Java Developer por @Generation Mexico <br>
 Cohorte 33
